@@ -6,6 +6,9 @@ async def randomColour():
 
 async def processArgs(args):
     joint = " ".join(args)
+    if "'" in joint:
+        joint = joint.replace("'", "")
+    
     split = joint.split(",")
     data = []
     for x in split:
