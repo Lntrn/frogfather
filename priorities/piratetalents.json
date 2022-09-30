@@ -1,0 +1,857 @@
+[
+    {
+        "priority": 0,
+        "name": "Blade Storm 1",
+        "rank": "Rare"
+    },
+    {
+        "priority": 1,
+        "name": "Blade Storm 2",
+        "rank": "Rare"
+    },
+    {
+        "priority": 2,
+        "name": "Grants Blade Storm",
+        "rank": "Ultra Rare"
+    },
+    {
+        "priority": 3,
+        "name": "Vengeance Strike 1",
+        "rank": "Rare"
+    },
+    {
+        "priority": 4,
+        "name": "Vengeance Strike 2",
+        "rank": "Ultra Rare"
+    },
+    {
+        "priority": 5,
+        "name": "Grants Vengeance Strike",
+        "rank": "Ultra Rare"
+    },
+    {
+        "priority": 6,
+        "name": "Riposte 1",
+        "rank": "Rare"
+    },
+    {
+        "priority": 7,
+        "name": "Riposte 2",
+        "rank": "Ultra Rare"
+    },
+    {
+        "priority": 8,
+        "name": "Grants Riposte",
+        "rank": "Ultra Rare"
+    },
+    {
+        "priority": 9,
+        "name": "Second Chance 1",
+        "rank": "Rare"
+    },
+    {
+        "priority": 10,
+        "name": "Second Chance 2",
+        "rank": "Ultra Rare"
+    },
+    {
+        "priority": 11,
+        "name": "Grants Second Chance",
+        "rank": "Ultra Rare"
+    },
+    {
+        "priority": 12,
+        "name": "Relentless 1",
+        "rank": ""
+    },
+    {
+        "priority": 13,
+        "name": "Relentless 2",
+        "rank": ""
+    },
+    {
+        "priority": 14,
+        "name": "Grants Relentless",
+        "rank": "Ultra Rare"
+    },
+    {
+        "priority": 15,
+        "name": "Repel Boarders 1",
+        "rank": ""
+    },
+    {
+        "priority": 16,
+        "name": "Repel Boarders 2",
+        "rank": ""
+    },
+    {
+        "priority": 17,
+        "name": "Grants Repel Boarders",
+        "rank": "Ultra Rare"
+    },
+    {
+        "priority": 18,
+        "name": "Cheap Shot 1",
+        "rank": ""
+    },
+    {
+        "priority": 19,
+        "name": "Cheap Shot 2",
+        "rank": ""
+    },
+    {
+        "priority": 20,
+        "name": "Grants Cheap Shot",
+        "rank": "Ultra Rare"
+    },
+    {
+        "priority": 21,
+        "name": "Flanking 1",
+        "rank": ""
+    },
+    {
+        "priority": 22,
+        "name": "Flanking 2",
+        "rank": ""
+    },
+    {
+        "priority": 23,
+        "name": "Grants Flanking",
+        "rank": "Ultra Rare"
+    },
+    {
+        "priority": 24,
+        "name": "Witch Hunter 1",
+        "rank": ""
+    },
+    {
+        "priority": 25,
+        "name": "Witch Hunter 2",
+        "rank": ""
+    },
+    {
+        "priority": 26,
+        "name": "Grants Witch Hunter",
+        "rank": "Ultra Rare"
+    },
+    {
+        "priority": 27,
+        "name": "Double Tap 1",
+        "rank": ""
+    },
+    {
+        "priority": 28,
+        "name": "Double Tap 2",
+        "rank": ""
+    },
+    {
+        "priority": 29,
+        "name": "Grants Double Tap",
+        "rank": "Ultra Rare"
+    },
+    {
+        "priority": 30,
+        "name": "Quick Draw 1",
+        "rank": ""
+    },
+    {
+        "priority": 31,
+        "name": "Quick Draw 2",
+        "rank": ""
+    },
+    {
+        "priority": 32,
+        "name": "Grants Quick Draw",
+        "rank": "Ultra Rare"
+    },
+    {
+        "priority": 33,
+        "name": "True Grit 1",
+        "rank": ""
+    },
+    {
+        "priority": 34,
+        "name": "True Grit 2",
+        "rank": ""
+    },
+    {
+        "priority": 35,
+        "name": "Grants True Grit",
+        "rank": "Ultra Rare"
+    },
+    {
+        "priority": 36,
+        "name": "Return Fire 1",
+        "rank": ""
+    },
+    {
+        "priority": 37,
+        "name": "Return Fire 2",
+        "rank": ""
+    },
+    {
+        "priority": 38,
+        "name": "Grants Return Fire",
+        "rank": "Ultra Rare"
+    },
+    {
+        "priority": 39,
+        "name": "Quick Adjust 1",
+        "rank": ""
+    },
+    {
+        "priority": 40,
+        "name": "Quick Adjust 2",
+        "rank": ""
+    },
+    {
+        "priority": 41,
+        "name": "Grants Quick Adjust",
+        "rank": "Ultra Rare"
+    },
+    {
+        "priority": 42,
+        "name": "Burst Fire 1",
+        "rank": ""
+    },
+    {
+        "priority": 43,
+        "name": "Burst Fire 2",
+        "rank": ""
+    },
+    {
+        "priority": 44,
+        "name": "Grants Burst Fire",
+        "rank": "Ultra Rare"
+    },
+    {
+        "priority": 45,
+        "name": "Overwatch 1",
+        "rank": ""
+    },
+    {
+        "priority": 46,
+        "name": "Overwatch 2",
+        "rank": ""
+    },
+    {
+        "priority": 47,
+        "name": "Grants Overwatch",
+        "rank": "Ultra Rare"
+    },
+    {
+        "priority": 48,
+        "name": "Parting Shot 1",
+        "rank": ""
+    },
+    {
+        "priority": 49,
+        "name": "Parting Shot 2",
+        "rank": ""
+    },
+    {
+        "priority": 50,
+        "name": "Grants Parting Shot",
+        "rank": "Ultra Rare"
+    },
+    {
+        "priority": 51,
+        "name": "Crossfire 1",
+        "rank": ""
+    },
+    {
+        "priority": 52,
+        "name": "Crossfire 2",
+        "rank": ""
+    },
+    {
+        "priority": 53,
+        "name": "Grants Crossfire",
+        "rank": "Ultra Rare"
+    },
+    {
+        "priority": 54,
+        "name": "First Strike 1",
+        "rank": ""
+    },
+    {
+        "priority": 55,
+        "name": "First Strike 2",
+        "rank": ""
+    },
+    {
+        "priority": 56,
+        "name": "Grants First Strike",
+        "rank": "Ultra Rare"
+    },
+    {
+        "priority": 57,
+        "name": "TEST_FirstStrike03",
+        "rank": ""
+    },
+    {
+        "priority": 58,
+        "name": "TEST_FirstStrike03_Player",
+        "rank": ""
+    },
+    {
+        "priority": 59,
+        "name": "Turn the Tide 1",
+        "rank": "Ultra Rare"
+    },
+    {
+        "priority": 60,
+        "name": "Hold the Line 1",
+        "rank": ""
+    },
+    {
+        "priority": 61,
+        "name": "Webs 1",
+        "rank": ""
+    },
+    {
+        "priority": 62,
+        "name": "Hold the Line 2",
+        "rank": ""
+    },
+    {
+        "priority": 63,
+        "name": "Bloodsucker 1",
+        "rank": ""
+    },
+    {
+        "priority": 64,
+        "name": "Bloodsucker 2",
+        "rank": ""
+    },
+    {
+        "priority": 65,
+        "name": "Charming Gaze 1",
+        "rank": ""
+    },
+    {
+        "priority": 66,
+        "name": "Charming Gaze 2",
+        "rank": ""
+    },
+    {
+        "priority": 67,
+        "name": "Cornered! 1",
+        "rank": ""
+    },
+    {
+        "priority": 68,
+        "name": "Cornered! 2",
+        "rank": ""
+    },
+    {
+        "priority": 69,
+        "name": "Eagle Eyes 1",
+        "rank": ""
+    },
+    {
+        "priority": 70,
+        "name": "Eagle Eyes 2",
+        "rank": ""
+    },
+    {
+        "priority": 71,
+        "name": "Elusive 1",
+        "rank": ""
+    },
+    {
+        "priority": 72,
+        "name": "Elusive 2",
+        "rank": ""
+    },
+    {
+        "priority": 73,
+        "name": "Feeding Frenzy 1",
+        "rank": ""
+    },
+    {
+        "priority": 74,
+        "name": "Feeding Frenzy 2",
+        "rank": ""
+    },
+    {
+        "priority": 75,
+        "name": "Follow Through 1",
+        "rank": ""
+    },
+    {
+        "priority": 76,
+        "name": "Follow Through 2",
+        "rank": ""
+    },
+    {
+        "priority": 77,
+        "name": "Merciless 1",
+        "rank": ""
+    },
+    {
+        "priority": 78,
+        "name": "Merciless 2",
+        "rank": ""
+    },
+    {
+        "priority": 79,
+        "name": "Pirate 1",
+        "rank": ""
+    },
+    {
+        "priority": 80,
+        "name": "Pirate 2",
+        "rank": ""
+    },
+    {
+        "priority": 81,
+        "name": "Poisonous 1",
+        "rank": ""
+    },
+    {
+        "priority": 82,
+        "name": "Poisonous 2",
+        "rank": ""
+    },
+    {
+        "priority": 83,
+        "name": "Scent 1",
+        "rank": ""
+    },
+    {
+        "priority": 84,
+        "name": "Scent 2",
+        "rank": ""
+    },
+    {
+        "priority": 85,
+        "name": "Sneaky Sneaky 1",
+        "rank": ""
+    },
+    {
+        "priority": 86,
+        "name": "Sneaky Sneaky 2",
+        "rank": ""
+    },
+    {
+        "priority": 87,
+        "name": "Death Throes 1",
+        "rank": ""
+    },
+    {
+        "priority": 88,
+        "name": "Death Throes 2",
+        "rank": ""
+    },
+    {
+        "priority": 89,
+        "name": "Turn the Tide 1",
+        "rank": ""
+    },
+    {
+        "priority": 90,
+        "name": "Turn the Tide 2",
+        "rank": ""
+    },
+    {
+        "priority": 91,
+        "name": "Grants Armored 1",
+        "rank": "Ultra Rare"
+    },
+    {
+        "priority": 92,
+        "name": "Grants Armored 2",
+        "rank": "Ultra Rare"
+    },
+    {
+        "priority": 93,
+        "name": "Grants Tough 1",
+        "rank": "Ultra Rare"
+    },
+    {
+        "priority": 94,
+        "name": "Grants Tough 2",
+        "rank": "Ultra Rare"
+    },
+    {
+        "priority": 95,
+        "name": "Grants Dodgy 1",
+        "rank": "Ultra Rare"
+    },
+    {
+        "priority": 96,
+        "name": "Grants Dodgy 2",
+        "rank": "Ultra Rare"
+    },
+    {
+        "priority": 97,
+        "name": "Grants Resistant 1",
+        "rank": "Ultra Rare"
+    },
+    {
+        "priority": 98,
+        "name": "Grants Resistant 2",
+        "rank": "Ultra Rare"
+    },
+    {
+        "priority": 99,
+        "name": "Grants Accurate 1",
+        "rank": "Ultra Rare"
+    },
+    {
+        "priority": 100,
+        "name": "Grants Accurate 2",
+        "rank": "Ultra Rare"
+    },
+    {
+        "priority": 101,
+        "name": "Extra Accuracy 1",
+        "rank": ""
+    },
+    {
+        "priority": 102,
+        "name": "Extra Agility 1",
+        "rank": ""
+    },
+    {
+        "priority": 103,
+        "name": "Enhanced Armor 1",
+        "rank": ""
+    },
+    {
+        "priority": 104,
+        "name": "Enhanced Damage 1",
+        "rank": ""
+    },
+    {
+        "priority": 105,
+        "name": "Extra Dodgy 1",
+        "rank": ""
+    },
+    {
+        "priority": 106,
+        "name": "Loyal 1",
+        "rank": ""
+    },
+    {
+        "priority": 107,
+        "name": "Naturally Agile 1",
+        "rank": ""
+    },
+    {
+        "priority": 108,
+        "name": "Extra Gritty 1",
+        "rank": ""
+    },
+    {
+        "priority": 109,
+        "name": "Extra Guile 1",
+        "rank": ""
+    },
+    {
+        "priority": 110,
+        "name": "Extra Gutsy 1",
+        "rank": ""
+    },
+    {
+        "priority": 111,
+        "name": "Naturally Gifted 1",
+        "rank": ""
+    },
+    {
+        "priority": 112,
+        "name": "Naturally Strong 1",
+        "rank": ""
+    },
+    {
+        "priority": 113,
+        "name": "Naturally Tough 1",
+        "rank": ""
+    },
+    {
+        "priority": 114,
+        "name": "Naturally Spirited 1",
+        "rank": ""
+    },
+    {
+        "priority": 115,
+        "name": "Enhanced Movement 1",
+        "rank": ""
+    },
+    {
+        "priority": 116,
+        "name": "Gifted 1",
+        "rank": ""
+    },
+    {
+        "priority": 117,
+        "name": "Enhanced Magic Resist 1",
+        "rank": ""
+    },
+    {
+        "priority": 118,
+        "name": "Extra Strength 1",
+        "rank": ""
+    },
+    {
+        "priority": 119,
+        "name": "Enhanced Toughness 1",
+        "rank": ""
+    },
+    {
+        "priority": 120,
+        "name": "Extra Will 1",
+        "rank": ""
+    },
+    {
+        "priority": 121,
+        "name": "Enhanced Movement 2",
+        "rank": ""
+    },
+    {
+        "priority": 122,
+        "name": "Enhanced Movement 3",
+        "rank": ""
+    },
+    {
+        "priority": 123,
+        "name": "Enhanced Armor 2",
+        "rank": ""
+    },
+    {
+        "priority": 124,
+        "name": "Enhanced Armor 3",
+        "rank": ""
+    },
+    {
+        "priority": 125,
+        "name": "Extra Accuracy 2",
+        "rank": ""
+    },
+    {
+        "priority": 126,
+        "name": "Extra Accuracy 3",
+        "rank": ""
+    },
+    {
+        "priority": 127,
+        "name": "Enhanced Magic Resist 2",
+        "rank": ""
+    },
+    {
+        "priority": 128,
+        "name": "Enhanced Magic Resist 3",
+        "rank": ""
+    },
+    {
+        "priority": 129,
+        "name": "Extra Agility 2",
+        "rank": ""
+    },
+    {
+        "priority": 130,
+        "name": "Extra Agility 3",
+        "rank": ""
+    },
+    {
+        "priority": 131,
+        "name": "Extra Dodgy 2",
+        "rank": ""
+    },
+    {
+        "priority": 132,
+        "name": "Extra Dodgy 3",
+        "rank": ""
+    },
+    {
+        "priority": 133,
+        "name": "Extra Will 2",
+        "rank": ""
+    },
+    {
+        "priority": 134,
+        "name": "Extra Will 3",
+        "rank": ""
+    },
+    {
+        "priority": 135,
+        "name": "Extra Strength 2",
+        "rank": ""
+    },
+    {
+        "priority": 136,
+        "name": "Extra Strength 3",
+        "rank": ""
+    },
+    {
+        "priority": 137,
+        "name": "Enhanced Toughness 2",
+        "rank": ""
+    },
+    {
+        "priority": 138,
+        "name": "Enhanced Toughness 3",
+        "rank": ""
+    },
+    {
+        "priority": 139,
+        "name": "Loyal 2",
+        "rank": ""
+    },
+    {
+        "priority": 140,
+        "name": "Loyal 3",
+        "rank": ""
+    },
+    {
+        "priority": 141,
+        "name": "Gifted 2",
+        "rank": ""
+    },
+    {
+        "priority": 142,
+        "name": "Gifted 3",
+        "rank": ""
+    },
+    {
+        "priority": 143,
+        "name": "Enhanced Damage 2",
+        "rank": ""
+    },
+    {
+        "priority": 144,
+        "name": "Enhanced Damage 3",
+        "rank": ""
+    },
+    {
+        "priority": 145,
+        "name": "Naturally Spirited 2",
+        "rank": ""
+    },
+    {
+        "priority": 146,
+        "name": "Naturally Spirited 3",
+        "rank": ""
+    },
+    {
+        "priority": 147,
+        "name": "Naturally Tough 2",
+        "rank": ""
+    },
+    {
+        "priority": 148,
+        "name": "Naturally Tough 3",
+        "rank": ""
+    },
+    {
+        "priority": 149,
+        "name": "Naturally Strong 2",
+        "rank": ""
+    },
+    {
+        "priority": 150,
+        "name": "Naturally Strong 3",
+        "rank": ""
+    },
+    {
+        "priority": 151,
+        "name": "Naturally Gifted 2",
+        "rank": ""
+    },
+    {
+        "priority": 152,
+        "name": "Naturally Gifted 3",
+        "rank": ""
+    },
+    {
+        "priority": 153,
+        "name": "Extra Gutsy 2",
+        "rank": ""
+    },
+    {
+        "priority": 154,
+        "name": "Extra Gutsy 3",
+        "rank": ""
+    },
+    {
+        "priority": 155,
+        "name": "Extra Guile 2",
+        "rank": ""
+    },
+    {
+        "priority": 156,
+        "name": "Extra Guile 3",
+        "rank": ""
+    },
+    {
+        "priority": 157,
+        "name": "Extra Gritty 2",
+        "rank": ""
+    },
+    {
+        "priority": 158,
+        "name": "Extra Gritty 3",
+        "rank": ""
+    },
+    {
+        "priority": 159,
+        "name": "Naturally Agile 2",
+        "rank": ""
+    },
+    {
+        "priority": 160,
+        "name": "Naturally Agile 3",
+        "rank": ""
+    },
+    {
+        "priority": 161,
+        "name": "Grants Turn the Tide",
+        "rank": "Ultra Rare"
+    },
+    {
+        "priority": 162,
+        "name": "Grants Pirate",
+        "rank": "Ultra Rare"
+    },
+    {
+        "priority": 163,
+        "name": "Grants Elusive",
+        "rank": "Ultra Rare"
+    },
+    {
+        "priority": 164,
+        "name": "Grants Hold the Line",
+        "rank": "Ultra Rare"
+    },
+    {
+        "priority": 165,
+        "name": "Relentless 1.",
+        "rank": ""
+    },
+    {
+        "priority": 166,
+        "name": "Relentless 2.",
+        "rank": ""
+    },
+    {
+        "priority": 167,
+        "name": "Slippery",
+        "rank": ""
+    },
+    {
+        "priority": 168,
+        "name": "Grants Mojo Echo",
+        "rank": "Ultra Rare"
+    },
+    {
+        "priority": 169,
+        "name": "Grants Mojo Rising",
+        "rank": "Ultra Rare"
+    },
+    {
+        "priority": 170,
+        "name": "Grants Readied Spell",
+        "rank": "Ultra Rare"
+    }
+  ]

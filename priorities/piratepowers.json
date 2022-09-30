@@ -1,0 +1,922 @@
+[
+    {
+      "priority": 0,
+      "name": "Nautilus Lunge",
+      "rank": ""
+    },
+    {
+      "priority": 1,
+      "name": "Chiton Blast",
+      "rank": ""
+    },
+    {
+      "priority": 2,
+      "name": "Kappa's Caper",
+      "rank": ""
+    },
+    {
+      "priority": 3,
+      "name": "Nautilus Leap",
+      "rank": ""
+    },
+    {
+      "priority": 4,
+      "name": "Chiton Burst",
+      "rank": ""
+    },
+    {
+      "priority": 5,
+      "name": "Kappa's Waltz",
+      "rank": ""
+    },
+    {
+      "priority": 6,
+      "name": "Cuttlefish Grasp",
+      "rank": ""
+    },
+    {
+      "priority": 7,
+      "name": "Mako Shot",
+      "rank": ""
+    },
+    {
+      "priority": 8,
+      "name": "Narwhal's Spell",
+      "rank": ""
+    },
+    {
+      "priority": 9,
+      "name": "Tentacular Spectacular",
+      "rank": ""
+    },
+    {
+      "priority": 10,
+      "name": "Mako Storm",
+      "rank": ""
+    },
+    {
+      "priority": 11,
+      "name": "Narwhal's Song",
+      "rank": ""
+    },
+    {
+      "priority": 12,
+      "name": "Blackwater Deeps",
+      "rank": ""
+    },
+    {
+      "priority": 13,
+      "name": "Jonah's Curse",
+      "rank": ""
+    },
+    {
+      "priority": 14,
+      "name": "Kraken's Cave",
+      "rank": ""
+    },
+    {
+      "priority": 15,
+      "name": "Fathomless Deeps",
+      "rank": ""
+    },
+    {
+      "priority": 16,
+      "name": "Jonah's Hex",
+      "rank": ""
+    },
+    {
+      "priority": 17,
+      "name": "Kraken's Grotto",
+      "rank": ""
+    },
+    {
+      "priority": 18,
+      "name": "Sargasso Strike",
+      "rank": ""
+    },
+    {
+      "priority": 19,
+      "name": "Sargasso Shot",
+      "rank": ""
+    },
+    {
+      "priority": 20,
+      "name": "Cachalot's Grip",
+      "rank": ""
+    },
+    {
+      "priority": 21,
+      "name": "Cachalot's Grasp",
+      "rank": ""
+    },
+    {
+      "priority": 22,
+      "name": "Lightning Strike",
+      "rank": ""
+    },
+    {
+      "priority": 23,
+      "name": "Lightning Shot",
+      "rank": ""
+    },
+    {
+      "priority": 24,
+      "name": "Thunderstrike",
+      "rank": ""
+    },
+    {
+      "priority": 25,
+      "name": "Lightning Surge",
+      "rank": ""
+    },
+    {
+      "priority": 26,
+      "name": "Lightning Storm",
+      "rank": ""
+    },
+    {
+      "priority": 27,
+      "name": "Thunderclap",
+      "rank": ""
+    },
+    {
+      "priority": 28,
+      "name": "Tailwinds",
+      "rank": ""
+    },
+    {
+      "priority": 29,
+      "name": "Skyfall",
+      "rank": ""
+    },
+    {
+      "priority": 30,
+      "name": "Stormburst",
+      "rank": ""
+    },
+    {
+      "priority": 31,
+      "name": "Muckblast",
+      "rank": ""
+    },
+    {
+      "priority": 32,
+      "name": "Entangling Muck",
+      "rank": ""
+    },
+    {
+      "priority": 33,
+      "name": "Oozeburst",
+      "rank": ""
+    },
+    {
+      "priority": 34,
+      "name": "Entangling Ooze",
+      "rank": ""
+    },
+    {
+      "priority": 35,
+      "name": "Darksky Strike",
+      "rank": ""
+    },
+    {
+      "priority": 36,
+      "name": "Darksky Shot",
+      "rank": ""
+    },
+    {
+      "priority": 37,
+      "name": "Darksky Spell",
+      "rank": ""
+    },
+    {
+      "priority": 38,
+      "name": "Surge of Despair",
+      "rank": ""
+    },
+    {
+      "priority": 39,
+      "name": "Storm of Despair",
+      "rank": ""
+    },
+    {
+      "priority": 40,
+      "name": "Song of Despair",
+      "rank": ""
+    },
+    {
+      "priority": 41,
+      "name": "Spirited Surge",
+      "rank": ""
+    },
+    {
+      "priority": 42,
+      "name": "Spirited Screech",
+      "rank": ""
+    },
+    {
+      "priority": 43,
+      "name": "Spirited Song",
+      "rank": ""
+    },
+    {
+      "priority": 44,
+      "name": "Unbalancing Shout",
+      "rank": ""
+    },
+    {
+      "priority": 45,
+      "name": "Black Kestrel Call",
+      "rank": ""
+    },
+    {
+      "priority": 46,
+      "name": "Owl's Prey",
+      "rank": ""
+    },
+    {
+      "priority": 47,
+      "name": "Black Roc Call",
+      "rank": ""
+    },
+    {
+      "priority": 48,
+      "name": "Black Kestrel Screech",
+      "rank": ""
+    },
+    {
+      "priority": 49,
+      "name": "Black Hawk Screech",
+      "rank": ""
+    },
+    {
+      "priority": 50,
+      "name": "Black Roc Screech",
+      "rank": ""
+    },
+    {
+      "priority": 51,
+      "name": "Hunter's Bane",
+      "rank": ""
+    },
+    {
+      "priority": 52,
+      "name": "Harrier's Bane",
+      "rank": ""
+    },
+    {
+      "priority": 53,
+      "name": "Hector's Bane",
+      "rank": ""
+    },
+    {
+      "priority": 54,
+      "name": "Windstalker",
+      "rank": ""
+    },
+    {
+      "priority": 55,
+      "name": "Cloudstalker",
+      "rank": ""
+    },
+    {
+      "priority": 56,
+      "name": "Skystalker",
+      "rank": ""
+    },
+    {
+      "priority": 57,
+      "name": "Sidewinder Strike",
+      "rank": ""
+    },
+    {
+      "priority": 58,
+      "name": "Cobra Strike",
+      "rank": ""
+    },
+    {
+      "priority": 59,
+      "name": "Basilisk Strike",
+      "rank": ""
+    },
+    {
+      "priority": 60,
+      "name": "Sidewinder's Favor",
+      "rank": ""
+    },
+    {
+      "priority": 61,
+      "name": "Cobra's Favor",
+      "rank": ""
+    },
+    {
+      "priority": 62,
+      "name": "Basilisk's Favor",
+      "rank": ""
+    },
+    {
+      "priority": 63,
+      "name": "Shattering Strike",
+      "rank": ""
+    },
+    {
+      "priority": 64,
+      "name": "Shattering Shot",
+      "rank": ""
+    },
+    {
+      "priority": 65,
+      "name": "Shattering Spell",
+      "rank": ""
+    },
+    {
+      "priority": 66,
+      "name": "Blade of 100 Ninjas",
+      "rank": ""
+    },
+    {
+      "priority": 67,
+      "name": "Blade of 1000 Ninjas",
+      "rank": ""
+    },
+    {
+      "priority": 68,
+      "name": "Blade of 10000 Ninjas",
+      "rank": ""
+    },
+    {
+      "priority": 69,
+      "name": "Enfeebling Bite",
+      "rank": ""
+    },
+    {
+      "priority": 70,
+      "name": "Enfeebling Spines",
+      "rank": ""
+    },
+    {
+      "priority": 71,
+      "name": "Enfeebling Shriek",
+      "rank": ""
+    },
+    {
+      "priority": 72,
+      "name": "Sorrowful Touch",
+      "rank": ""
+    },
+    {
+      "priority": 73,
+      "name": "Shadowy Touch",
+      "rank": ""
+    },
+    {
+      "priority": 74,
+      "name": "Spectral Touch",
+      "rank": ""
+    },
+    {
+      "priority": 75,
+      "name": "Sorrowful Aura",
+      "rank": ""
+    },
+    {
+      "priority": 76,
+      "name": "Shadowy Aura",
+      "rank": ""
+    },
+    {
+      "priority": 77,
+      "name": "Spectral Aura",
+      "rank": ""
+    },
+    {
+      "priority": 78,
+      "name": "Ancestral Strike",
+      "rank": ""
+    },
+    {
+      "priority": 79,
+      "name": "Ancestral Shot",
+      "rank": ""
+    },
+    {
+      "priority": 80,
+      "name": "Ancestral Spell",
+      "rank": ""
+    },
+    {
+      "priority": 81,
+      "name": "Shambling Corpse",
+      "rank": ""
+    },
+    {
+      "priority": 82,
+      "name": "Zombie's Curse",
+      "rank": ""
+    },
+    {
+      "priority": 83,
+      "name": "Shambling Horde",
+      "rank": ""
+    },
+    {
+      "priority": 84,
+      "name": "Epic Shot",
+      "rank": ""
+    },
+    {
+      "priority": 85,
+      "name": "Mega Shot",
+      "rank": ""
+    },
+    {
+      "priority": 86,
+      "name": "Super Shot",
+      "rank": ""
+    },
+    {
+      "priority": 87,
+      "name": "Epic Storm",
+      "rank": ""
+    },
+    {
+      "priority": 88,
+      "name": "Mega Storm",
+      "rank": ""
+    },
+    {
+      "priority": 89,
+      "name": "Super Storm",
+      "rank": ""
+    },
+    {
+      "priority": 90,
+      "name": "Epic Strike",
+      "rank": ""
+    },
+    {
+      "priority": 91,
+      "name": "Mega Strike",
+      "rank": ""
+    },
+    {
+      "priority": 92,
+      "name": "Super Strike",
+      "rank": ""
+    },
+    {
+      "priority": 93,
+      "name": "Epic Surge",
+      "rank": ""
+    },
+    {
+      "priority": 94,
+      "name": "Mega Surge",
+      "rank": ""
+    },
+    {
+      "priority": 95,
+      "name": "Super Surge",
+      "rank": ""
+    },
+    {
+      "priority": 96,
+      "name": "Kestrel's Prey",
+      "rank": ""
+    },
+    {
+      "priority": 97,
+      "name": "Owl's Cry",
+      "rank": ""
+    },
+    {
+      "priority": 98,
+      "name": "Eagle's Prey",
+      "rank": ""
+    },
+    {
+      "priority": 99,
+      "name": "Kestrel's Clutches",
+      "rank": ""
+    },
+    {
+      "priority": 100,
+      "name": "Owl's Clutches",
+      "rank": ""
+    },
+    {
+      "priority": 101,
+      "name": "Eagle's Clutches",
+      "rank": ""
+    },
+    {
+      "priority": 102,
+      "name": "Toxic Touch",
+      "rank": ""
+    },
+    {
+      "priority": 103,
+      "name": "Toxic Spittle",
+      "rank": ""
+    },
+    {
+      "priority": 104,
+      "name": "Virulent Claws",
+      "rank": ""
+    },
+    {
+      "priority": 105,
+      "name": "Virulent Musk",
+      "rank": ""
+    },
+    {
+      "priority": 106,
+      "name": "Epic Spell",
+      "rank": ""
+    },
+    {
+      "priority": 107,
+      "name": "Mega Spell",
+      "rank": ""
+    },
+    {
+      "priority": 108,
+      "name": "Super Spell",
+      "rank": ""
+    },
+    {
+      "priority": 109,
+      "name": "Epic Song",
+      "rank": ""
+    },
+    {
+      "priority": 110,
+      "name": "Mega Song",
+      "rank": ""
+    },
+    {
+      "priority": 111,
+      "name": "Super Song",
+      "rank": ""
+    },
+    {
+      "priority": 112,
+      "name": "Banshee Shriek",
+      "rank": ""
+    },
+    {
+      "priority": 113,
+      "name": "Banshee Wail",
+      "rank": ""
+    },
+    {
+      "priority": 114,
+      "name": "Vampiric Touch",
+      "rank": ""
+    },
+    {
+      "priority": 115,
+      "name": "Vampiric Gaze",
+      "rank": ""
+    },
+    {
+      "priority": 116,
+      "name": "Vampiric Umbra",
+      "rank": ""
+    },
+    {
+      "priority": 117,
+      "name": "Ravenous Maw",
+      "rank": ""
+    },
+    {
+      "priority": 118,
+      "name": "Ravenous Gaze",
+      "rank": ""
+    },
+    {
+      "priority": 119,
+      "name": "Ravenous Frenzy",
+      "rank": ""
+    },
+    {
+      "priority": 120,
+      "name": "Kraken's Lament",
+      "rank": ""
+    },
+    {
+      "priority": 121,
+      "name": "Wind Spirit",
+      "rank": ""
+    },
+    {
+      "priority": 122,
+      "name": "Cloud Spirit",
+      "rank": ""
+    },
+    {
+      "priority": 123,
+      "name": "Sneak Attack",
+      "rank": ""
+    },
+    {
+      "priority": 124,
+      "name": "Sneak Attack",
+      "rank": ""
+    },
+    {
+      "priority": 125,
+      "name": "Triton's Song",
+      "rank": ""
+    },
+    {
+      "priority": 126,
+      "name": "Jobu's Breath",
+      "rank": ""
+    },
+    {
+      "priority": 127,
+      "name": "Jobu's Kiss",
+      "rank": ""
+    },
+    {
+      "priority": 128,
+      "name": "Mojo Strike",
+      "rank": ""
+    },
+    {
+      "priority": 129,
+      "name": "Ghostwail",
+      "rank": ""
+    },
+    {
+      "priority": 130,
+      "name": "Rouse",
+      "rank": ""
+    },
+    {
+      "priority": 131,
+      "name": "Refresh",
+      "rank": ""
+    },
+    {
+      "priority": 132,
+      "name": "Mighty Charge",
+      "rank": ""
+    },
+    {
+      "priority": 133,
+      "name": "Assassin's Mist",
+      "rank": ""
+    },
+    {
+      "priority": 134,
+      "name": "Kraken's Coils",
+      "rank": ""
+    },
+    {
+      "priority": 135,
+      "name": "Hoodoo Touch",
+      "rank": ""
+    },
+    {
+      "priority": 136,
+      "name": "Calm the Troops",
+      "rank": ""
+    },
+    {
+      "priority": 137,
+      "name": "Steadying Speech",
+      "rank": ""
+    },
+    {
+      "priority": 138,
+      "name": "Mutineer's Grasp",
+      "rank": ""
+    },
+    {
+      "priority": 139,
+      "name": "Shark's Fury",
+      "rank": ""
+    },
+    {
+      "priority": 140,
+      "name": "Assassin's Gloom",
+      "rank": ""
+    },
+    {
+      "priority": 141,
+      "name": "Brutal Charge",
+      "rank": ""
+    },
+    {
+      "priority": 142,
+      "name": "Regroup",
+      "rank": ""
+    },
+    {
+      "priority": 143,
+      "name": "Rally",
+      "rank": ""
+    },
+    {
+      "priority": 144,
+      "name": "Soulreaver",
+      "rank": ""
+    },
+    {
+      "priority": 145,
+      "name": "Mojo Blast",
+      "rank": ""
+    },
+    {
+      "priority": 146,
+      "name": "Calm the Troops",
+      "rank": ""
+    },
+    {
+      "priority": 147,
+      "name": "Hoodoo Touch",
+      "rank": ""
+    },
+    {
+      "priority": 148,
+      "name": "Kraken's Coils",
+      "rank": ""
+    },
+    {
+      "priority": 149,
+      "name": "Assassin's Mist",
+      "rank": ""
+    },
+    {
+      "priority": 150,
+      "name": "Mighty Charge",
+      "rank": ""
+    },
+    {
+      "priority": 151,
+      "name": "Refresh",
+      "rank": ""
+    },
+    {
+      "priority": 152,
+      "name": "Rouse",
+      "rank": ""
+    },
+    {
+      "priority": 153,
+      "name": "Ghostwail",
+      "rank": ""
+    },
+    {
+      "priority": 154,
+      "name": "Mojo Strike",
+      "rank": ""
+    },
+    {
+      "priority": 155,
+      "name": "Jobu's Breath",
+      "rank": ""
+    },
+    {
+      "priority": 156,
+      "name": "Triton's Song",
+      "rank": ""
+    },
+    {
+      "priority": 157,
+      "name": "Sneak Attack",
+      "rank": ""
+    },
+    {
+      "priority": 158,
+      "name": "Wind Spirit",
+      "rank": ""
+    },
+    {
+      "priority": 159,
+      "name": "Steadying Speech",
+      "rank": ""
+    },
+    {
+      "priority": 160,
+      "name": "Mutineer's Grasp",
+      "rank": ""
+    },
+    {
+      "priority": 161,
+      "name": "Shark's Fury",
+      "rank": ""
+    },
+    {
+      "priority": 162,
+      "name": "Assassin's Gloom",
+      "rank": ""
+    },
+    {
+      "priority": 163,
+      "name": "Brutal Charge",
+      "rank": ""
+    },
+    {
+      "priority": 164,
+      "name": "Regroup",
+      "rank": ""
+    },
+    {
+      "priority": 165,
+      "name": "Rally",
+      "rank": ""
+    },
+    {
+      "priority": 166,
+      "name": "Soulreaver",
+      "rank": ""
+    },
+    {
+      "priority": 167,
+      "name": "Mojo Blast",
+      "rank": ""
+    },
+    {
+      "priority": 168,
+      "name": "Jobu's Kiss",
+      "rank": ""
+    },
+    {
+      "priority": 169,
+      "name": "Kraken's Lament",
+      "rank": ""
+    },
+    {
+      "priority": 170,
+      "name": "Back Stab",
+      "rank": ""
+    },
+    {
+      "priority": 171,
+      "name": "Cloud Spirit",
+      "rank": ""
+    },
+    {
+      "priority": 172,
+      "name": "Mojo Storm",
+      "rank": ""
+    },
+    {
+      "priority": 173,
+      "name": "Mojo Storm",
+      "rank": ""
+    },
+    {
+      "priority": 174,
+      "name": "Victory Pie",
+      "rank": ""
+    },
+    {
+      "priority": 175,
+      "name": "Sweet Meteor of Doom",
+      "rank": ""
+    },
+    {
+      "priority": 176,
+      "name": "Fandango",
+      "rank": ""
+    },
+    {
+      "priority": 177,
+      "name": "Get Chummy",
+      "rank": ""
+    },
+    {
+      "priority": 178,
+      "name": "Lionheart",
+      "rank": ""
+    },
+    {
+      "priority": 179,
+      "name": "Time Warp",
+      "rank": ""
+    },
+    {
+      "priority": 180,
+      "name": "Sandstorm",
+      "rank": ""
+    },
+    {
+      "priority": 181,
+      "name": "Earthquack",
+      "rank": ""
+    },
+    {
+      "priority": 182,
+      "name": "Ice-O-Lation",
+      "rank": ""
+    },
+    {
+      "priority": 183,
+      "name": "Rainbow Blessing",
+      "rank": ""
+    }
+  ]

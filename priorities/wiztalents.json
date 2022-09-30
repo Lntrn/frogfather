@@ -1,0 +1,4153 @@
+[
+    {
+        "name": "Furnace",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Furnace",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Locked Fetch Reagent",
+        "rank": "Common",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Locked_Fetch_Reagent",
+        "valid_url": false,
+        "locked": false
+    },
+    {
+        "name": "Pet Power Balanceblade",
+        "rank": "Common",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Pet_Power_Balanceblade",
+        "valid_url": false,
+        "locked": false
+    },
+    {
+        "name": "Power-Adv-Reagent-SeedsIce",
+        "rank": "Common",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Power-Adv-Reagent-SeedsIce",
+        "valid_url": false,
+        "locked": false
+    },
+    {
+        "name": "Rare Balance Card Finder",
+        "rank": "Common",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Rare_Balance_Card_Finder",
+        "valid_url": false,
+        "locked": false
+    },
+    {
+        "name": "Dragonblade",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Dragonblade",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Time Skip",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Time_Skip",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Hex Trained",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Hex_Trained",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Ice Seed Farmer",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Ice_Seed_Farmer",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Thunder Lizard",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Thunder_Lizard",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Tranquilize",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Tranquilize",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Efficient",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Efficient",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Effective",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Effective",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Cunning",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Cunning",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Best of Show",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Best_of_Show",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Stalwart",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Stalwart",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Adroit",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Adroit",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Life Hunter",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Life_Hunter",
+        "valid_url": true,
+        "locked": true
+    },
+    {
+        "name": "Beetle Time",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Beetle_Time",
+        "valid_url": false,
+        "locked": false
+    },
+    {
+        "name": "Mulligan's Shuffle",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Mulligan's_Shuffle",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Extra Mana",
+        "rank": "Common",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Extra_Mana",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Death Striker",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Death_Striker",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Angry Snowpig",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Angry_Snowpig",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Snow Biz",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Snow_Biz",
+        "valid_url": false,
+        "locked": false
+    },
+    {
+        "name": "Pierce Train",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Pierce_Train",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Storm Scout",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Storm_Scout",
+        "valid_url": true,
+        "locked": true
+    },
+    {
+        "name": "Snow 'n Tell",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Snow_'n_Tell",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Death Scout",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Death_Scout",
+        "valid_url": true,
+        "locked": true
+    },
+    {
+        "name": "Guardian Wall",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Guardian_Wall",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Ice Assistant",
+        "rank": "Common",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Ice_Assistant",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Epic Fishing Luck",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Epic_Fishing_Luck",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Fishing Luck",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Fishing_Luck",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Batusi",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Batusi",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Ice Rider",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Ice_Rider",
+        "valid_url": false,
+        "locked": false
+    },
+    {
+        "name": "Balance Finder",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Balance_Finder",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Brace For Impact",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Brace_For_Impact",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Pip o'Plenty",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Pip_O%27Plenty",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Reveal Fish School",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Reveal_Fish_School",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Solar Aegis Trained",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Solar_Aegis_Trained",
+        "valid_url": true,
+        "locked": true
+    },
+    {
+        "name": "Sharp-Shot",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Sharp-Shot",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Sharp-Eye",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Sharp-Eye",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Myth Seed Farmer",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Myth_Seed_Farmer",
+        "valid_url": true,
+        "locked": true
+    },
+    {
+        "name": "Greensleeves",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Greensleeves",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Time of Legend Trained",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Time_of_Legend_Trained",
+        "valid_url": true,
+        "locked": true
+    },
+    {
+        "name": "Spartan",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Spartan",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Stun Resistant",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Stun_Resistant",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Stun Recalcitrant",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Stun_Recalcitrant",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Death Seed Farmer",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Death_Seed_Farmer",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Tick Kicker",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Tick_Kicker",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Gold Miner",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Gold_Miner",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Myth Assistant",
+        "rank": "Common",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Myth_Assistant",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Rage of Winter",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Rage_of_Winter",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Elemental Scout",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Elemental_Scout",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Fire-Shot",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Fire-Shot",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Fire-Sniper",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Fire-Sniper",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Fire-Eye",
+        "rank": "Common",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Fire-Eye",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Storm Assailant",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Storm_Assailant",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Balance Hunter",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Balance_Hunter",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Dragonspear",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Dragonspear",
+        "valid_url": false,
+        "locked": false
+    },
+    {
+        "name": "Balance Assistant",
+        "rank": "Common",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Balance_Assistant",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Snow Heal For You!",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Snow_Heal_For_You!",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Storm Finder",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Storm_Finder",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Storm Elemental",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Storm_Elemental",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Mend",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Mend",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Fire Elemental",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Fire_Elemental",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Early Bird",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Early_Bird",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Sturdy",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Sturdy",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Well Trained",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Well_Trained",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Ally Precision",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Ally_Precision",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Dependable",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Dependable",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Vigilant",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Vigilant",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Cautious",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Cautious",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Intuitive",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Intuitive",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Attentive",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Attentive",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Perceptive",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Perceptive",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Empowerment",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Empowerment",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Draconian",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Draconian",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Potboiler Trained",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Potboiler_Trained",
+        "valid_url": false,
+        "locked": true
+    },
+    {
+        "name": "Dot Doctor",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Dot_Doctor",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Vengeance",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Vengeance",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Ninja Pig",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Ninja_Pig",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Conviction",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Conviction",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Colossus",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Colossus",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Tower Shield",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Tower_Shield",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Berserk",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Berserk",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Treant",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Treant",
+        "valid_url": false,
+        "locked": false
+    },
+    {
+        "name": "SnowBorn",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:SnowBorn",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Fortify",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Fortify",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Gobbler",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Gobbler",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Fire Finder",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Fire_Finder",
+        "valid_url": true,
+        "locked": true
+    },
+    {
+        "name": "Blade of Ice",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Blade_of_Ice",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Bad Snowman",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Bad_Snowman",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Infallible",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Infallible",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Balance Finder",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Balance_Finder",
+        "valid_url": true,
+        "locked": true
+    },
+    {
+        "name": "Cat Bandit",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Cat_Bandit",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Amplify",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Amplify",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Mander",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Mander",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Earth Walker Trained",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Earth_Walker_Trained",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Defender",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Defender",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Doom & Gloom Trained",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Doom_&_Gloom_Trained",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Blocker",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Blocker",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Myth Scout",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Myth_Scout",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Fire Scout",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Fire_Scout",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Life Scout",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Life_Scout",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Spirit Blade",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Spirit_Blade",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Unstoppable",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Unstoppable",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Strong",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Strong",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Monstrous",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Monstrous",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Giant",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Giant",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Keen Eyes",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Keen_Eyes",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Gargantuan",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Gargantuan",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Sniper",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Sniper",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Accurate",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Accurate",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Take Power Trained",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Take_Power_Trained",
+        "valid_url": false,
+        "locked": true
+    },
+    {
+        "name": "Pacify",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Pacify",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Draw Power Trained",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Draw_Power_Trained",
+        "valid_url": true,
+        "locked": true
+    },
+    {
+        "name": "Namaste Trained",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Namaste_Trained",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Storm-Eye",
+        "rank": "Common",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Storm-Eye",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Storm-Shot",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Storm-Shot",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Storm-Sniper",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Storm-Sniper",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Stormclaw",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Stormclaw",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Death Assistant",
+        "rank": "Common",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Death_Assistant",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Black Mantle Trained",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Black_Mantle_Trained",
+        "valid_url": true,
+        "locked": true
+    },
+    {
+        "name": "Windstorm Trained",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Windstorm_Trained",
+        "valid_url": true,
+        "locked": true
+    },
+    {
+        "name": "Ally Elemental Shield",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Ally_Elemental_Shield",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Healthy",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Healthy",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Leafstorm Trained",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Leafstorm_Trained",
+        "valid_url": true,
+        "locked": true
+    },
+    {
+        "name": "Potboiler Trained",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Potboiler_Trained",
+        "valid_url": false,
+        "locked": false
+    },
+    {
+        "name": "Ice Armor Trained",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Ice_Armor_Trained",
+        "valid_url": true,
+        "locked": true
+    },
+    {
+        "name": "Curse Trained",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Curse_Trained",
+        "valid_url": false,
+        "locked": true
+    },
+    {
+        "name": "Avenger",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Avenger",
+        "valid_url": false,
+        "locked": false
+    },
+    {
+        "name": "Elemental Scout",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Elemental_Scout",
+        "valid_url": true,
+        "locked": true
+    },
+    {
+        "name": "Blizzard Lizard",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Blizzard_Lizard",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Ally Dragonblade",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Ally_Dragonblade",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Happy Accident",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Happy_Accident",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Death Finder",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Death_Finder",
+        "valid_url": true,
+        "locked": true
+    },
+    {
+        "name": "Hydra Trained",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Hydra_Trained",
+        "valid_url": false,
+        "locked": true
+    },
+    {
+        "name": "Balanceblade",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Balanceblade",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Deathspear",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Deathspear",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Cat Thug Trained",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Cat_Thug_Trained",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Balance Striker",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Balance_Striker",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Balance Assailant",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Balance_Assailant",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Frostbite Trained",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Frostbite_Trained",
+        "valid_url": true,
+        "locked": true
+    },
+    {
+        "name": "Soothe",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Soothe",
+        "valid_url": false,
+        "locked": false
+    },
+    {
+        "name": "Death-Eye",
+        "rank": "Common",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Death-Eye",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Death-Shot",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Death-Shot",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Death-Sniper",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Death-Sniper",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Ice-Boon",
+        "rank": "Common",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Ice-Boon",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Pain-Bringer",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Pain-Bringer",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Myth Hunter",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Myth_Hunter",
+        "valid_url": true,
+        "locked": true
+    },
+    {
+        "name": "Myth-Giver",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Myth-Giver",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Fire-Giver",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Fire-Giver",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Life-Giver",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Life-Giver",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Elemental Retriever",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Elemental_Retriever",
+        "valid_url": true,
+        "locked": true
+    },
+    {
+        "name": "Triage Trained",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Triage_Trained",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Fire Striker",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Fire_Striker",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Life Striker",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Life_Striker",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Mana Gift",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Mana_Gift",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Frozen Kraken Trained",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Frozen_Kraken_Trained",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Fire Assailant",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Fire_Assailant",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Life Assailant",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Life_Assailant",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Mega Taunt",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Mega_Taunt",
+        "valid_url": false,
+        "locked": false
+    },
+    {
+        "name": "Fire Cat Ho!",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Fire_Cat_Ho!",
+        "valid_url": false,
+        "locked": false
+    },
+    {
+        "name": "Imp Possible",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Imp_Possible",
+        "valid_url": false,
+        "locked": false
+    },
+    {
+        "name": "Taunt",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Taunt",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Curse Trained",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Curse_Trained",
+        "valid_url": false,
+        "locked": false
+    },
+    {
+        "name": "Feint",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Feint",
+        "valid_url": false,
+        "locked": false
+    },
+    {
+        "name": "Element Shield",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Element_Shield",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Bloodbatty",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Bloodbatty",
+        "valid_url": false,
+        "locked": false
+    },
+    {
+        "name": "Myth Seed Farmer",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Myth_Seed_Farmer",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Ice-Giver",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Ice-Giver",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Pain-Giver",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Pain-Giver",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Vanquisher",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Vanquisher",
+        "valid_url": false,
+        "locked": false
+    },
+    {
+        "name": "Vehement Vanquisher",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Vehement_Vanquisher",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Pip Saver",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Pip_Saver",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Curse Giver",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Curse_Giver",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Plaguebringer",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Plaguebringer",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Steal Health",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Steal_Health",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Smoke Screen Trained",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Smoke_Screen_Trained",
+        "valid_url": true,
+        "locked": true
+    },
+    {
+        "name": "Big Sparky",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Big_Sparky",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Storm-Tooth",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Storm-Tooth",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Balance-Boon",
+        "rank": "Common",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Balance-Boon",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Balance-Dealer",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Balance-Dealer",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Balance-Giver",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Balance-Giver",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Sword and Shield Trained",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Sword_and_Shield_Trained",
+        "valid_url": true,
+        "locked": true
+    },
+    {
+        "name": "Hydra Trained",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Hydra_Trained",
+        "valid_url": false,
+        "locked": false
+    },
+    {
+        "name": "Ally Glacial Shield",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Ally_Glacial_Shield",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Ice-Dealer",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Ice-Dealer",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Shift Trained",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Shift_Trained",
+        "valid_url": true,
+        "locked": true
+    },
+    {
+        "name": "Storm Front",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Storm_Front",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Feint Trained",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Feint_Trained",
+        "valid_url": false,
+        "locked": true
+    },
+    {
+        "name": "Stormspear",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Stormspear",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Ice-Proof",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Ice-Proof",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Spell-Proof",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Spell-Proof",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Hatch Catcher",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Hatch_Catcher",
+        "valid_url": false,
+        "locked": false
+    },
+    {
+        "name": "Clean Charm",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Clean_Charm",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Myth-Proof",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Myth-Proof",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Fortress",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Fortress",
+        "valid_url": false,
+        "locked": false
+    },
+    {
+        "name": "Legend Shield Trained",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Legend_Shield_Trained",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Fire-Proof",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Fire-Proof",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Life-Proof",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Life-Proof",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Ally Volcanic Shield",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Ally_Volcanic_Shield",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Evil Eye",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Evil_Eye",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Unbalancer",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Unbalancer",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Balance-Ward",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Balance-Ward",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Balance-Off",
+        "rank": "Common",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Balance-Off",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Mega Soothe",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Mega_Soothe",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Mega Subdue",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Mega_Subdue",
+        "valid_url": false,
+        "locked": false
+    },
+    {
+        "name": "Pyrosaurus Rex",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Pyrosaurus_Rex",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Unbalance",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Unbalance",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Steal Ward",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Steal_Ward",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Power Up",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Power_Up",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Beetlemania",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Beetlemania",
+        "valid_url": false,
+        "locked": false
+    },
+    {
+        "name": "Cloud o'Bugs",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Cloud_O%27Bugs",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Lead Stinger",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Lead_Stinger",
+        "valid_url": false,
+        "locked": false
+    },
+    {
+        "name": "Iceblade",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Iceblade",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Punishment",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Punishment",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Ice-Ward",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Ice-Ward",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Balefrost Trained",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Balefrost_Trained",
+        "valid_url": true,
+        "locked": true
+    },
+    {
+        "name": "Lifespear",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Lifespear",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Firespear",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Firespear",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Windstorm",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Windstorm",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Ice-Shot",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Ice-Shot",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Ice-Sniper",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Ice-Sniper",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Ice-Eye",
+        "rank": "Common",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Ice-Eye",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Steal Charm",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Steal_Charm",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Virulence",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Virulence",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Death Seed Farmer",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Death_Seed_Farmer",
+        "valid_url": true,
+        "locked": true
+    },
+    {
+        "name": "Mythspear",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Mythspear",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Mega Pacify",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Mega_Pacify",
+        "valid_url": false,
+        "locked": false
+    },
+    {
+        "name": "Shield Minion",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Shield_Minion",
+        "valid_url": false,
+        "locked": false
+    },
+    {
+        "name": "Vampire Trained",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Vampire_Trained",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Track-r-Treater",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Track-r-Treater",
+        "valid_url": true,
+        "locked": true
+    },
+    {
+        "name": "Button Tom",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Button_Tom",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Element Blade",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Element_Blade",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Hex Trained",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Hex_Trained",
+        "valid_url": true,
+        "locked": true
+    },
+    {
+        "name": "Fire Hunter",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Fire_Hunter",
+        "valid_url": false,
+        "locked": false
+    },
+    {
+        "name": "Fire Finder",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Fire_Finder",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Shatter Trained",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Shatter_Trained",
+        "valid_url": false,
+        "locked": false
+    },
+    {
+        "name": "Mana Boost",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Mana_Boost",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Shift Trained",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Shift_Trained",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Feint Trained",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Feint_Trained",
+        "valid_url": false,
+        "locked": false
+    },
+    {
+        "name": "Boss Toad",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Boss_Toad",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Spritely",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Spritely",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Plague Trained",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Plague_Trained",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Ice Armor Trained",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Ice_Armor_Trained",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Link Trained",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Link_Trained",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Fuel Trained",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Fuel_Trained",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Disjunction",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Disjunction",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Wise",
+        "rank": "Common",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Wise",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Crafty",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Crafty",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Weakness",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Weakness",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Strangle",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Strangle",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Entangle",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Entangle",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Balance of Power Trained",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Balance_of_Power_Trained",
+        "valid_url": true,
+        "locked": true
+    },
+    {
+        "name": "Headless Horseman",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Headless_Horseman",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Ice-Away",
+        "rank": "Common",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Ice-Away",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Spell-Defying",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Spell-Defying",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Balancespear",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Balancespear",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Elemental Retriever",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Elemental_Retriever",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Light Strike",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Light_Strike",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Time of Legend Trained",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Time_of_Legend_Trained",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Death Ninja Pig Trained",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Death_Ninja_Pig_Trained",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Solar Aegis Trained",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Solar_Aegis_Trained",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Cleanse Charm Trained",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Cleanse_Charm_Trained",
+        "valid_url": true,
+        "locked": true
+    },
+    {
+        "name": "Steadfast",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Steadfast",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Sharp",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Sharp",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Eager",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Eager",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Rugged",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Rugged",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Reliquary",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Reliquary",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Spritely 100% - DNU",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Spritely_100%_-_DNU",
+        "valid_url": false,
+        "locked": false
+    },
+    {
+        "name": "Detonate Trained",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Detonate_Trained",
+        "valid_url": true,
+        "locked": true
+    },
+    {
+        "name": "Ace Avenger",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Ace_Avenger",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Myth Finder",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Myth_Finder",
+        "valid_url": true,
+        "locked": true
+    },
+    {
+        "name": "Cat Thug Trained",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Cat_Thug_Trained",
+        "valid_url": true,
+        "locked": true
+    },
+    {
+        "name": "Blazing Oak",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Blazing_Oak",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Darkwind Trained",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Darkwind_Trained",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Immolate Trained",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Immolate_Trained",
+        "valid_url": true,
+        "locked": true
+    },
+    {
+        "name": "Ice Trap",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Ice_Trap",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Element Trap",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Element_Trap",
+        "valid_url": false,
+        "locked": false
+    },
+    {
+        "name": "Thinkin' Cap",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Thinkin'_Cap",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Canny",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Canny",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Gardening Pixie",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Gardening_Pixie",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Death Hunter",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Death_Hunter",
+        "valid_url": true,
+        "locked": true
+    },
+    {
+        "name": "Durable",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Durable",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Astute",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Astute",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Spirited",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Spirited",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Tenacious",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Tenacious",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Fairy Friend",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Fairy_Friend",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Sprite Queen",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Sprite_Queen",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Galvanic Field",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Galvanic_Field",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Balefrost Trained",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Balefrost_Trained",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Clock Spider",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Clock_Spider",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Life-Shot",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Life-Shot",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Life-Sniper",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Life-Sniper",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Life-Eye",
+        "rank": "Common",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Life-Eye",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Storm-Proof",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Storm-Proof",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Storm-Ward",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Storm-Ward",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Storm-Away",
+        "rank": "Common",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Storm-Away",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Incredibly Infallible",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Incredibly_Infallible",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Infallible",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Infallible",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Hatch Catcher",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Hatch_Catcher",
+        "valid_url": false,
+        "locked": true
+    },
+    {
+        "name": "Devotion",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Devotion",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Balance Scout",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Balance_Scout",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Critical Striker",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Critical_Striker",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Ice Assailant",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Ice_Assailant",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Critical Hitter",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Critical_Hitter",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Ice Striker",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Ice_Striker",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Icespear",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Icespear",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Three Little Pigs",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Three_Little_Pigs",
+        "valid_url": false,
+        "locked": false
+    },
+    {
+        "name": "Add Health",
+        "rank": "Common",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Add_Health",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Health Gift",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Health_Gift",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Health Boost",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Health_Boost",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Health Bounty",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Health_Bounty",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Wyldfire Trained",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Wyldfire_Trained",
+        "valid_url": true,
+        "locked": true
+    },
+    {
+        "name": "Fire Hunter",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Fire_Hunter",
+        "valid_url": false,
+        "locked": true
+    },
+    {
+        "name": "Plague Trained",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Plague_Trained",
+        "valid_url": true,
+        "locked": true
+    },
+    {
+        "name": "Steal Blade",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Steal_Blade",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Ice Hunter",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Ice_Hunter",
+        "valid_url": false,
+        "locked": false
+    },
+    {
+        "name": "Balance Hunter",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Balance_Hunter",
+        "valid_url": true,
+        "locked": true
+    },
+    {
+        "name": "Life Finder",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Life_Finder",
+        "valid_url": true,
+        "locked": true
+    },
+    {
+        "name": "PierceMonger",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:PierceMonger",
+        "valid_url": false,
+        "locked": false
+    },
+    {
+        "name": "Spirit Armor",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Spirit_Armor",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Get Sunbird",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Get_Sunbird",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Snow Shield",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Snow_Shield",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Quick Learner",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Quick_Learner",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Great Learner",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Great_Learner",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Accelerated Learner",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Accelerated_Learner",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Myth Shield",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Myth_Shield",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Brown Recluse",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Brown_Recluse",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Ally Tower Shield",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Ally_Tower_Shield",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Flaming Elf ",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Flaming_Elf_",
+        "valid_url": false,
+        "locked": false
+    },
+    {
+        "name": "Leprech-On",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Leprech-On",
+        "valid_url": false,
+        "locked": false
+    },
+    {
+        "name": "Death-Boon",
+        "rank": "Common",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Death-Boon",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Death-Dealer",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Death-Dealer",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Death-Giver",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Death-Giver",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Troll Call",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Troll_Call",
+        "valid_url": false,
+        "locked": false
+    },
+    {
+        "name": "Fire Shield",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Fire_Shield",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Life Shield",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Life_Shield",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Calypso-You-Know",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Calypso-You-Know",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Dogged",
+        "rank": "Common",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Dogged",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Calculating",
+        "rank": "Common",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Calculating",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Cheeky",
+        "rank": "Common",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Cheeky",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Hearty",
+        "rank": "Common",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Hearty",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Buff Minion",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Buff_Minion",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Green Thumb",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Green_Thumb",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Life-Away",
+        "rank": "Common",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Life-Away",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Life-Ward",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Life-Ward",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Pyromania",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Pyromania",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Steal Charm Trained",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Steal_Charm_Trained",
+        "valid_url": true,
+        "locked": true
+    },
+    {
+        "name": "Fire-Away",
+        "rank": "Common",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Fire-Away",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Fire-Ward",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Fire-Ward",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Storm Trap",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Storm_Trap",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Pip Conserver",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Pip_Conserver",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Spontaneous Combustion",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Spontaneous_Combustion",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Might of Myth",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Might_of_Myth",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Vaporize",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Vaporize",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Life Assistant",
+        "rank": "Common",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Life_Assistant",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Drop It",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Drop_It",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Myth-Away",
+        "rank": "Common",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Myth-Away",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Myth-Ward",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Myth-Ward",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Screen",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Screen",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Storm Assistant",
+        "rank": "Common",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Storm_Assistant",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Magnificent Mender",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Magnificent_Mender",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Mender",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Mender",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Stormblade",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Stormblade",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Distract",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Distract",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Death Finder",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Death_Finder",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Energizing Battery",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Energizing_Battery",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Feeling Feint",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Feeling_Feint",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Sword and Shield!",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Sword_and_Shield!",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Death-Proof",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Death-Proof",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Death-Ward",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Death-Ward",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Death-Away",
+        "rank": "Common",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Death-Away",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Expert Empowerer",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Expert_Empowerer",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Empowerer",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Empowerer",
+        "valid_url": false,
+        "locked": false
+    },
+    {
+        "name": "Subdue",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Subdue",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Pip Boost",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Pip_Boost",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Buff Minion",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Buff_Minion",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Heart o'Pixie",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Heart_o'Pixie",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Power-Taker",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Power-Taker",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Plague",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Plague",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Blade Flurry",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Blade_Flurry",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Disarmament",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Disarmament",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Vengeful Seraph",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Vengeful_Seraph",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Wall of Confusion",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Wall_of_Confusion",
+        "valid_url": false,
+        "locked": false
+    },
+    {
+        "name": "Animate Skeleton",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Animate_Skeleton",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Infector",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Infector",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Feinting Spell",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Feinting_Spell",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Ice Hunter",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Ice_Hunter",
+        "valid_url": false,
+        "locked": true
+    },
+    {
+        "name": "Wyldfire Trained",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Wyldfire_Trained",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Scaredy-Crow",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Scaredy-Crow",
+        "valid_url": false,
+        "locked": false
+    },
+    {
+        "name": "Spriteshade",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Spriteshade",
+        "valid_url": false,
+        "locked": false
+    },
+    {
+        "name": "Groovy Ghoul",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Groovy_Ghoul",
+        "valid_url": false,
+        "locked": false
+    },
+    {
+        "name": "Banshee Bop",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Banshee_Bop",
+        "valid_url": false,
+        "locked": false
+    },
+    {
+        "name": "Myth Trap",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Myth_Trap",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Mega Distract",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Mega_Distract",
+        "valid_url": false,
+        "locked": false
+    },
+    {
+        "name": "Life Seed Farmer",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Life_Seed_Farmer",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Cycle of Life",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Cycle_of_Life",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Myth Assailant",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Myth_Assailant",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Life Trap",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Life_Trap",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Go Humongo",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Go_Humongo",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Fire Trap",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Fire_Trap",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Blade of Life",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Blade_of_Life",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Blade of Fire",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Blade_of_Fire",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Aura Crush",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Aura_Crush",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Frostbite Trained",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Frostbite_Trained",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Myth Striker",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Myth_Striker",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Life-Bringer",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Life-Bringer",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Life-Boon",
+        "rank": "Common",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Life-Boon",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Boom Snake",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Boom_Snake",
+        "valid_url": false,
+        "locked": false
+    },
+    {
+        "name": "Shocking Bat",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Shocking_Bat",
+        "valid_url": false,
+        "locked": false
+    },
+    {
+        "name": "Cloud Shark",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Cloud_Shark",
+        "valid_url": false,
+        "locked": false
+    },
+    {
+        "name": "Cup o'Storms",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Cup_o'Storms",
+        "valid_url": false,
+        "locked": false
+    },
+    {
+        "name": "Fire-Dealer",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Fire-Dealer",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Fire-Boon",
+        "rank": "Common",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Fire-Boon",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Myth-Dealer",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Myth-Dealer",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Myth-Boon",
+        "rank": "Common",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Myth-Boon",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Ward Wrecker",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Ward_Wrecker",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Cycle of Life",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Cycle_of_Life",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Track-r-Treater",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Track-r-Treater",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Sleet Storm",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Sleet_Storm",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Unicorn",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Unicorn",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Relentless",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Relentless",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Brilliant",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Brilliant",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Powerful",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Powerful",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Mighty",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Mighty",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Death Trap",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Death_Trap",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Earth Walker Trained",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Earth_Walker_Trained",
+        "valid_url": true,
+        "locked": true
+    },
+    {
+        "name": "Death Ninja Pig Trained",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Death_Ninja_Pig_Trained",
+        "valid_url": true,
+        "locked": true
+    },
+    {
+        "name": "The Deer Knight Rises",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:The_Deer_Knight_Rises",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Ice Scout",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Ice_Scout",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Immolate Trained",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Immolate_Trained",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Darkwind Trained",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Darkwind_Trained",
+        "valid_url": true,
+        "locked": true
+    },
+    {
+        "name": "Myth Hunter",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Myth_Hunter",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Death Caller.",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Death_Caller.",
+        "valid_url": false,
+        "locked": false
+    },
+    {
+        "name": "Mana Bounty",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Mana_Bounty",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Deathblade",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Deathblade",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Crystallize",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Crystallize",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Triage Trained",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Triage_Trained",
+        "valid_url": true,
+        "locked": true
+    },
+    {
+        "name": "Pet Rescue",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Pet_Rescue",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Detonate Trained",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Detonate_Trained",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Fire Assistant",
+        "rank": "Common",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Fire_Assistant",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Bulwark",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Bulwark",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Life Caller",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Life_Caller",
+        "valid_url": false,
+        "locked": false
+    },
+    {
+        "name": "Storm Hunter",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Storm_Hunter",
+        "valid_url": true,
+        "locked": true
+    },
+    {
+        "name": "Smoke Screen",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Smoke_Screen",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Beguile",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Beguile",
+        "valid_url": false,
+        "locked": false
+    },
+    {
+        "name": "Black Mantle Trained",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Black_Mantle_Trained",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Dissipate",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Dissipate",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Fortifier",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Fortifier",
+        "valid_url": false,
+        "locked": false
+    },
+    {
+        "name": "Fearless Fortifier",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Fearless_Fortifier",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Shatter Trained",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Shatter_Trained",
+        "valid_url": false,
+        "locked": true
+    },
+    {
+        "name": "Mend Minion",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Mend_Minion",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Sprite Time",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Sprite_Time",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Elf on Fire",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Elf_on_Fire",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Big Energy",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Big_Energy",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Huge Energy",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Huge_Energy",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Energy",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Energy",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Ultra Energy",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Ultra_Energy",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Spirit Trap",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Spirit_Trap",
+        "valid_url": false,
+        "locked": false
+    },
+    {
+        "name": "Balance Scout",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Balance_Scout",
+        "valid_url": true,
+        "locked": true
+    },
+    {
+        "name": "Lance A Lot",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Lance_A_Lot",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Ice Caller.",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Ice_Caller.",
+        "valid_url": false,
+        "locked": false
+    },
+    {
+        "name": "Flame Keeper",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Flame_Keeper",
+        "valid_url": false,
+        "locked": false
+    },
+    {
+        "name": "Ice Finder",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Ice_Finder",
+        "valid_url": true,
+        "locked": true
+    },
+    {
+        "name": "Storm-Boon",
+        "rank": "Common",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Storm-Boon",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Storm-Dealer",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Storm-Dealer",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Storm-Giver",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Storm-Giver",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Harvest Helper",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Harvest_Helper",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Vampire Trained",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Vampire_Trained",
+        "valid_url": true,
+        "locked": true
+    },
+    {
+        "name": "Amplifier",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Amplifier",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Myth Caller.",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Myth_Caller.",
+        "valid_url": false,
+        "locked": false
+    },
+    {
+        "name": "Ardent Amplifier",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Ardent_Amplifier",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Courageous",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Courageous",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Intrepid",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Intrepid",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Refreshed",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Refreshed",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Resourceful",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Resourceful",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Quick-Witted",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Quick-Witted",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Gifted",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Gifted",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Vigorous",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Vigorous",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Dashing",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Dashing",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Effervescent",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Effervescent",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Lively",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Lively",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Balance of Power Trained",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Balance_of_Power_Trained",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Mega Tranquilize",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Mega_Tranquilize",
+        "valid_url": false,
+        "locked": false
+    },
+    {
+        "name": "Steal Charm Trained",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Steal_Charm_Trained",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Power Player",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Power_Player",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Feeling Weak",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Feeling_Weak",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Hexster",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Hexster",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Sap Health",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Sap_Health",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Balanceblade",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Balanceblade",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Death Shield",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Death_Shield",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Ice Seed Farmer",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Ice_Seed_Farmer",
+        "valid_url": true,
+        "locked": true
+    },
+    {
+        "name": "Myth Finder",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Myth_Finder",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Life Fuel",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Life_Fuel",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Reinforce",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Reinforce",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Cleanse Charm Trained",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Cleanse_Charm_Trained",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Shiny Spider",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Shiny_Spider",
+        "valid_url": false,
+        "locked": false
+    },
+    {
+        "name": "Storm Finder",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Storm_Finder",
+        "valid_url": true,
+        "locked": true
+    },
+    {
+        "name": "Myth Fuel",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Myth_Fuel",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Wild Wild Bolt",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Wild_Wild_Bolt",
+        "valid_url": false,
+        "locked": false
+    },
+    {
+        "name": "Death Scout",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Death_Scout",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Chastisement",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Chastisement",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Storm Scout",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Storm_Scout",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Ice Finder",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Ice_Finder",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "No Pain, No Gain",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:No_Pain,_No_Gain",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Black Widow",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Black_Widow",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Life Finder",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Life_Finder",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Death Assailant",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Death_Assailant",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Balance Caller.",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Balance_Caller.",
+        "valid_url": false,
+        "locked": false
+    },
+    {
+        "name": "Healer",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Healer",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Medic",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Medic",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Bullheaded",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Bullheaded",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Sunbird Call",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Sunbird_Call",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Green Furry",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Green_Furry",
+        "valid_url": false,
+        "locked": false
+    },
+    {
+        "name": "Doom & Gloom Trained",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Doom_&_Gloom_Trained",
+        "valid_url": true,
+        "locked": true
+    },
+    {
+        "name": "Call Cyclops",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Call_Cyclops",
+        "valid_url": false,
+        "locked": false
+    },
+    {
+        "name": "Guiding Light",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Guiding_Light",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Berserker",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Berserker",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Brazen Berserker",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Brazen_Berserker",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Tireless",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Tireless",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Determined",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Determined",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Unshakeable",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Unshakeable",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Sword and Shield Trained",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Sword_and_Shield_Trained",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Ally Thermic Shield",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Ally_Thermic_Shield",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Curse",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Curse",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Frenzied",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Frenzied",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Take Power Trained",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Take_Power_Trained",
+        "valid_url": false,
+        "locked": false
+    },
+    {
+        "name": "Spirit Shield",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Spirit_Shield",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Life Seed Farmer",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Life_Seed_Farmer",
+        "valid_url": true,
+        "locked": true
+    },
+    {
+        "name": "Freeze",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Freeze",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Ally Stun Block",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Ally_Stun_Block",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Draw Power Trained",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Draw_Power_Trained",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Black Mantle",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Black_Mantle",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Death Hunter",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Death_Hunter",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Charm Chopper",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Charm_Chopper",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Life Scout",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Life_Scout",
+        "valid_url": true,
+        "locked": true
+    },
+    {
+        "name": "Fire Scout",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Fire_Scout",
+        "valid_url": true,
+        "locked": true
+    },
+    {
+        "name": "Myth Scout",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Myth_Scout",
+        "valid_url": true,
+        "locked": true
+    },
+    {
+        "name": "Windstorm Trained",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Windstorm_Trained",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Leafstorm Trained",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Leafstorm_Trained",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Cooldown Trained",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Cooldown_Trained",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Smoke Screen Trained",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Smoke_Screen_Trained",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Biting Cold",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Biting_Cold",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Legend Shield Trained",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Legend_Shield_Trained",
+        "valid_url": true,
+        "locked": true
+    },
+    {
+        "name": "Grand Phoenix",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Grand_Phoenix",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Myth-Eye",
+        "rank": "Common",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Myth-Eye",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Myth-Sniper",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Myth-Sniper",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Myth-Shot",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Myth-Shot",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Ally Ether Shield",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Ally_Ether_Shield",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Ally Spirit Shield",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Ally_Spirit_Shield",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Storm Hunter",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Storm_Hunter",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Lifeblade",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Lifeblade",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Fireblade",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Fireblade",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Wisp Bonus",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Wisp_Bonus",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Hex",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Hex",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Ally Legend Shield",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Ally_Legend_Shield",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Careful",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Careful",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Forceful",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Forceful",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Capable",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Capable",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Fire Caller.",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Fire_Caller.",
+        "valid_url": false,
+        "locked": false
+    },
+    {
+        "name": "Mythblade",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Mythblade",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Link Trained",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Link_Trained",
+        "valid_url": true,
+        "locked": true
+    },
+    {
+        "name": "Fuel Trained",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Fuel_Trained",
+        "valid_url": true,
+        "locked": true
+    },
+    {
+        "name": "Earthshaker",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Earthshaker",
+        "valid_url": false,
+        "locked": false
+    },
+    {
+        "name": "Guidance",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Guidance",
+        "valid_url": false,
+        "locked": false
+    },
+    {
+        "name": "Strike! ",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Strike!_",
+        "valid_url": false,
+        "locked": false
+    },
+    {
+        "name": "Cooldown Trained",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Cooldown_Trained",
+        "valid_url": true,
+        "locked": true
+    },
+    {
+        "name": "Ally Dream Shield",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Ally_Dream_Shield",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Storm Shield",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Storm_Shield",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Armor Breaker",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Armor_Breaker",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Armor Piercer",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Armor_Piercer",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Storm Striker",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Storm_Striker",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Defender's Rampart",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Defender's_Rampart",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Cure Crusher",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Cure_Crusher",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Frozen Kraken Trained",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Frozen_Kraken_Trained",
+        "valid_url": true,
+        "locked": true
+    },
+    {
+        "name": "Mega Calm",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Mega_Calm",
+        "valid_url": false,
+        "locked": false
+    },
+    {
+        "name": "Quench",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Quench",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Melt",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Melt",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Life Hunter",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Life_Hunter",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Storm Caller.",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Storm_Caller.",
+        "valid_url": false,
+        "locked": false
+    },
+    {
+        "name": "Ice Scout",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Ice_Scout",
+        "valid_url": true,
+        "locked": true
+    },
+    {
+        "name": "Namaste Trained",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Namaste_Trained",
+        "valid_url": true,
+        "locked": true
+    },
+    {
+        "name": "Stun",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Stun",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Calm",
+        "rank": "Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Calm",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Fuel",
+        "rank": "Epic",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Fuel",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Clean Ward",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Clean_Ward",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Balance-Eye",
+        "rank": "Common",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Balance-Eye",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Balance-It",
+        "rank": "Uncommon",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Balance-It",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Brimstone Bringer",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Brimstone_Bringer",
+        "valid_url": false,
+        "locked": false
+    },
+    {
+        "name": "Gold Rusher",
+        "rank": "Common",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Gold_Rusher",
+        "valid_url": true,
+        "locked": false
+    },
+    {
+        "name": "Balance-Sniper",
+        "rank": "Ultra Rare",
+        "url": "http://www.wizard101central.com/wiki/PetAbility:Balance-Sniper",
+        "valid_url": true,
+        "locked": false
+    }
+]
